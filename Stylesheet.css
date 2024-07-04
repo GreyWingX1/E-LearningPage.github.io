@@ -78,28 +78,29 @@
   #CourseTopics h3,
   #CourseTopics p,
   #CourseTopics li {   /* For All Text in Courses and Topics */
-    margin-left: 20px; 
     color: white;
     font-family: "Agrandir", sans-serif;
   }
   #CourseTopics h2 { /*Title*/
-    font-size: 65px; 
+    font-size: 55px; 
   }
   #CourseTopics h3 { /*Programs and Courses*/
-    font-size: 45px; 
+    font-size: 40px; 
   }
   #CourseTopics p { /*Courses and Topics Definition*/
-    font-size: 35px; 
+    font-size: 34px; 
     text-align: justify;
   }
   #CourseTopics li {
-    font-size: 33px; /* Adjusted font size for li */
+    font-size: 30px; /* Adjusted font size for li */
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  #CourseTopics li2 {
+    font-size: 26px; /* Adjusted font size for li2*/
   }
   /* Add dashed line */
   .dashed-line {
-    border: 0;
-    border-top: 2px dashed white;
+    border-top: white;
     margin: 20px 0;
   }
   /* Footer Section */
