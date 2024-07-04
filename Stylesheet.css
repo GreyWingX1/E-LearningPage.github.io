@@ -25,8 +25,7 @@
   .HeaderText { /* .HeaderText For WebTech */
     color: rgb(0, 26, 255);
     margin-left: 20px;
-    margin-bottom: 20px;
-    font-size: 65px;         
+    font-size: 60px;         
   }
   .NavigationalHeader { /* NavigationalHeader for Background and positioning */
     height: auto;
