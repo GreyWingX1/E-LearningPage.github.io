@@ -26,7 +26,7 @@
   .HeaderText { /* .HeaderText For WebTech */
     color: rgb(0, 26, 255);
     margin-left: 20px;
-    font-size: 60px;     
+    font-size: 50px;     
   }
   .NavigationalHeader { /* NavigationalHeader for Background and positioning */
     height: auto;
@@ -40,7 +40,7 @@
     font-family: Arial;
     line-height: 1.6;
     margin-right: 20px;   
-    font-size: 20px;    
+    font-size: 25px;    
     font-weight: bold;  
     list-style-type: none; /* Removes list styling so that text arranges horizontally */
     display: flex; /* Flex container for navigation items */
